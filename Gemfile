@@ -57,9 +57,6 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
-
- /Users/jasminmyers/.rvm/gems/ruby-2.3.3/extensions/x86_64-darwin-13/2.3.0/pg-0.21.0/mkmf.log
-
 group :production do
   gem 'pg'
   gem 'rails_12factor'
